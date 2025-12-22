@@ -13,7 +13,7 @@ It supports real-world rental operations such as booking vehicles, tracking avai
 👉 [Click here to view the ERD](https://lucid.app/lucidchart/e889c745-f110-441d-a342-59c05c8807da/edit?viewport_loc=-3819%2C-959%2C1865%2C1087%2C0_0&invitationId=inv_6fa4a1a7-9c18-43d9-a4a7-1c18d680726d)
 
 🎥 **Viva Presentation Video**  
-👉 [Watch the Viva Video](https://your-viva-video-link-here)
+👉 [Watch the Viva Video](https://drive.google.com/file/d/1d1CF8dwi3TdG5a68XPDVLqcm7LDrDfp8/view?usp=sharing)
 
 ---
 
